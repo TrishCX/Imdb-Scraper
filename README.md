@@ -1,7 +1,7 @@
 <p align="center">
     <p align="center">
     <h1 align="center">IMDB Scraper
-    <h5 align="center">Fetch information about a pin, board, user and many more, without any API KEY or ACCESS TOKEN.
+    <h5 align="center">Easy & Beginner friendly imdb-scraper made with ❤️ and typescript.
 </p>
 </p>
 <p align="center">
