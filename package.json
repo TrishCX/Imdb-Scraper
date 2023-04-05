@@ -1,0 +1,38 @@
+{
+  "name": "@myno_21/imdb-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch",
+    "dev": "nodemon src/test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "movie",
+    "movie-scraper",
+    "imdb-api",
+    "imdb-scraper",
+    "scraper-movie",
+    "show-id",
+    "show-scraper",
+    "movie-api",
+    "scraper"
+  ],
+  "author": "Trish",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "got": "^12.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
